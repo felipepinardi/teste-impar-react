@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  background: transparent linear-gradient(272deg, #ae276f 0%, #5f1478 100%) 0%;
+  z-index: 1;
+}
+.header img {
+  padding: 10px;
+}

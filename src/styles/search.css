@@ -1,0 +1,29 @@
+.banner {
+  width: 100%;
+  z-index: 2;
+}
+.search-container{
+  display: flex;
+  justify-content: center;
+}
+.search-input{
+  font-size: 20px;
+  width: 60vw;
+  height: 40px;
+  position: relative;
+  bottom: 9vw;
+  border-radius: 10px;
+  border:none;
+  padding: 10px;
+}
+.search-button{
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+.search-button img{
+  position: relative;
+  bottom: 9vw;
+  margin-left: -6vw;
+  width: 50px;
+}
